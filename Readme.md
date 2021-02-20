@@ -22,8 +22,8 @@ mvn spring-boot:run
 
 ## Deploying the application using docker
 
-Create docker image using `docker build -t person-app .`
-Run the docker image using `docker run -p 8080:8080 person-app`
+- Create docker image using `docker build -t person-app .`
+- Run the docker image using `docker run -p 8080:8080 person-app`
 
 
 ## API's
